@@ -8,11 +8,11 @@
 
 - Implemented a strict walk-forward rolling-window evaluation protocol, ensuring fully out-of-sample and real-time forecasting comparability across models
 
-- XGBoost delivers the strongest predictive performance, particularly during volatility spikes, by exploiting nonlinear and state-dependent transformations of highly persistent volatility signals rather than by discovering new dominant predictors
+- Demonstrated that XGBoost delivers the strongest predictive performance, particularly during volatility spikes, by exploiting nonlinear and state-dependent transformations of highly persistent volatility signals rather than by discovering new dominant predictors
 
 - Provided interpretability through SHAP values, revealing how nonlinear interaction effects explain performance differences between linear and nonlinear models
 
-- Found no performance gains from hybrid ML–EGARCH specifications, indicating that machine-learning models internalize volatility persistence and asymmetry when the information set is sufficiently rich
+- Found no performance gains from hybrid ML–EGARCH specifications, indicating that machine-learning models internalize volatility persistence and asymmetry when the information set is sufficiently rich, rendering EGARCH-based features redundant
 
 
 

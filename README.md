@@ -21,7 +21,7 @@
 
 ## Repository Structure:
 
-00_Report : 
+00_Report : Academic Report
 
 01_Data_Downloading_Merging : Data Acquisition and Merging
 

@@ -36,7 +36,7 @@
 
 08_Data : Datasets Used
 
-09_Presentation : Video presentation of the project
+09_Presentation : Video presentation of the project isn't available on github and shared through a link by email
 
 
 ## Running the code:

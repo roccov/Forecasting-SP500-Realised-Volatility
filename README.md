@@ -34,7 +34,7 @@
 
 07_ML_Plot : Machine learning performance visualisation
 
-08_Data : Datasets Used, All data can be downloaded automatically by running the code, except the Oxford–Man Institute Realized Volatility Indices, which were downloaded manually due to access restrictions.
+08_Data : Datasets Used
 
 09_Presentation : Video presentation of the project
 
@@ -42,4 +42,6 @@
 ## Running the code:
 
 The full analysis can be reproduced by executing the notebooks in the numerical order indicated by their folder names.
+
+All data can be downloaded automatically by running the code, except the Oxford–Man Institute Realized Volatility Indices, which were downloaded manually due to access restrictions.
 

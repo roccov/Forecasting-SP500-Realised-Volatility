@@ -38,9 +38,6 @@
 07_ML_Plot : Machine learning performance visualisation
 
 
-
-Full prediction results are available upon request or can be regenerated using the pipeline.
-
 ## Running the NN3 code:
 
 To run the code, make sure the data file is inside of the folder. CHange the parameters as you wish in the config.py file.

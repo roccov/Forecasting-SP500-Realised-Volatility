@@ -1,7 +1,4 @@
-
-
-# Learning from Missingness: Enhancing imputation with the NN3 architecture to predict monthly US stock returns
-
+# Forecasting S&P 500 Realized Volatility
 
 ## Highlights: 
 
@@ -37,22 +34,12 @@
 
 07_ML_Plot : Machine learning performance visualisation
 
+08_Data : Datasets Used, All data can be downloaded automatically by running the code, except the Oxford–Man Institute Realized Volatility Indices, which were downloaded manually due to access restrictions.
 
-## Running the NN3 code:
+09_Presentation : Video presentation of the project
 
-To run the code, make sure the data file is inside of the folder. CHange the parameters as you wish in the config.py file.
 
-Then, Simply execute the main.py file in the terminal.
+## Running the code:
 
-## Collaborators: 
-This project was carried out as part of the Machine Learning for Finance course taught by Professor Semyon Malamud at the Ecole Polytechnique Fédérale de Lausanne (EPFL), in collaboration with:
+The full analysis can be reproduced by executing the notebooks in the numerical order indicated by their folder names.
 
-Rocco Pio Lorenzo Ventruto [https://github.com/roccov]
-
-Tallula Graber [https://github.com/Tallulaa]
-
-Noah Louis Truttmann [https://github.com/NoahTruttmann]
-
-Piotr Kleymenov [https://github.com/PiotrKley259]
-
-This repository is a personal, cleaned-up version of the original group project, with additional comments and refinements for portfolio purposes.

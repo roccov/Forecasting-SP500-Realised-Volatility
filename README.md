@@ -43,5 +43,5 @@
 
 The full analysis can be reproduced by executing the notebooks in the numerical order indicated by their folder names.
 
-All data can be downloaded automatically by running the code, except the Oxford–Man Institute Realized Volatility Indices, which were downloaded manually due to access restrictions.
+All data can be downloaded automatically by running the code, except the Oxford–Man Institute Realized Volatility Indices, downloaded manually due to access restrictions and available in the 08_Data folder.
 
